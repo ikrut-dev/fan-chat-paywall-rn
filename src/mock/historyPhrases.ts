@@ -1,0 +1,32 @@
+export const FAN_PHRASES = [
+  'This made my whole week!',
+  'When is the next drop?',
+  'Been a subscriber since day one',
+  'Can you say hi to Kyiv?',
+  'That last post was incredible',
+  'Following from Lisbon!',
+  "You're the best, honestly",
+  'Any plans for a meetup?',
+  'Just upgraded my sub, worth it',
+  'Love this so much',
+  'How do I get early access?',
+  'This deserves way more views',
+  'Been waiting all day for this',
+  'Can we get a behind the scenes?',
+  'You always know how to make my day',
+];
+
+export const CREATOR_PHRASES = [
+  'Thank you all so much!',
+  'New drop coming this weekend',
+  'Appreciate the love, really',
+  'Working on something big rn',
+  'Link is in my bio',
+  'Stream starts in 10 minutes',
+  'You all are amazing',
+  'Behind the scenes coming soon',
+  'Glad you liked it!',
+  'More coming very soon',
+  'Thanks for the support',
+  'That means a lot, thank you',
+];
